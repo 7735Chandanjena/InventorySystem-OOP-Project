@@ -1,0 +1,30 @@
+[
+    {
+        "product_id": 101,
+        "p_name": "Laptop",
+        "category": "Electronics",
+        "price": 50000,
+        "stock": 10
+    },
+    {
+        "product_id": 102,
+        "p_name": "Mouse",
+        "category": "Electronics",
+        "price": 500,
+        "stock": 3
+    },
+    {
+        "product_id": 103,
+        "p_name": "Jeans",
+        "category": "Clothing",
+        "price": 1200,
+        "stock": 8
+    },
+    {
+        "product_id": 104,
+        "p_name": "Hard disk",
+        "category": "Electronics",
+        "price": 2000.0,
+        "stock": 20
+    }
+]
